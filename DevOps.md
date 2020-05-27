@@ -3,6 +3,7 @@ MMT Infra question - https://docs.google.com/document/d/1H5rPVrPzNZ7e0dG_jsMGGUV
 # CI/CD
 - 시스템 모니터링을 위한 구성이 필요할 경우에 어떤식으로 구성해본 경험이 있는지?
 - Explain deployment patterns
+- build numbering 어떤 컨벤션으로해야하나?
 
 # Docker
 - ECS 또는 Docker Swarm 또는 Kubernetes 같은 Orchestration tool을 구축해본 경험은? 있다면 각가의 장단점은?
