@@ -16,7 +16,12 @@
 * what is SQL Injection?
 * stateless vs stateful?
 * ACID? CAP? SOLID? DRY? WET?
-* 
+* Explain Hash
+* API를 만들 때 지키는 원칙이 있다면.
+
+# Security
+* Asymmetric key , symmetric key explain
+
 
 # Database
 * 
