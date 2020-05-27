@@ -22,3 +22,12 @@
 * 
 
 # Whiteboard Design 
+* Distributed vending machine
+* Distributed ATM
+* url shortening service
+* design rate limiter
+
+# Testing
+* What is fixture and how should it be handled on which testing?
+* What is regression testing?
+* Difference between unit and integration tests?
