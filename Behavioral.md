@@ -26,4 +26,11 @@
 * Have you ever had to make a tough decision without consulting anybody? (bias for action)
 * Time when you went above and beyond your job responsibilities.
 * Time when you helped someone grow in career and it benefited them
-* 
+* 고객은 누구인가?
+* 힘들었던 상황에서 해결책을 제안한것이 적절했는지 어떻게 판단했나? (data? ) 해결책을 제시후 진행하고나서 주위동료에게서 어떤 피드백을 받았는가?
+* 데이터를 통해서 발전가능성을 제시한적이있는가?
+* KPI, OKR은 어떻게 제시하고 진행했나?
+* 커리어를 쌓으면서 배운점이 무엇인가? 새로운일을 할떄 어떤점이 다를것인가?
+
+
+
